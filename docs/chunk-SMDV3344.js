@@ -1,0 +1,1 @@
+import{R as o,oa as n,pa as i,ra as a,sa as m}from"./chunk-O3CO3GXR.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["app-home"]],standalone:!0,features:[m],decls:2,vars:0,template:function(t,p){t&1&&(n(0,"p"),a(1,"home works!"),i())}})}}return e})();export{c as HomeComponent};
